@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "url": "https://builtbybit.com/resources/playernicks.66979/",
-  "changelog": "Added /nick next and /playernicks next commands. Fixed /nick back not restoring previous nicknames. Fixed blacklist not saving properly. Improved compatibility with Purpur 26.2+. Nickname history is now persistent across server restarts. Added tab completion for new commands."
+  "changelog": "AnvilGUI Improvements: Nickname previews have been added, as well as the use of color codes in the AnvilGUI item lore."
 }
